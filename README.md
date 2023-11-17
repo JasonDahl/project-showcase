@@ -6,7 +6,7 @@ Welcome to my portfolio.  Read on for a guided tour of some of my data projects.
 
 ### MLZoomcamp
 
-[MLZoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching machine learning and data science. 
+[MLZoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching machine learning and data science. It's curriculum includes several [coding projects](https://github.com/JasonDahl/mlzoomcamp-homework "View repo").
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
