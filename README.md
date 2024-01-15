@@ -4,6 +4,16 @@ Welcome to my portfolio.  Read on for a guided tour of some of my data projects.
 
 ## Table of Contents
 
+### TDI Data Science Fellowship
+In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellowship]([https://www.thedataincubator.com/](https://www.credly.com/badges/49bedbf7-a813-4a8a-a81f-396302e0511d) "View my certification") - an immersive training program designed to prepare individuals with strong quantitative and analytical backgrounds, often including those with advanced degrees in fields like physics, mathematics, computer science, or engineering, for careers in data science.  The curriculum covered a wide range of data science topics, including but not limited to machine learning, statistical analysis, data visualization, and big data technologies.  Fellowship work features hands-on projects, solving real-world problems and gaining practical experience.  Modules included:
+- Data wrangling with Numpy and Pandas
+- Data analysis with SQL
+- Machine learning with Scikit-Learn
+- Natural Language Processing (NLP) and time series analysis
+- Distributed computing with Spark (RDD and dataframe/MLLib)
+- Deep learning with Keras/Tensorflow
+- A rigorous [capstone project](https://github.com/JasonDahl/Capstone-Cadet-Success "Go to the Repo")
+
 ### MLZoomcamp
 
 [MLZoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching machine learning and data science. It's curriculum includes several [coding projects](https://github.com/JasonDahl/mlzoomcamp-homework "View repo").
