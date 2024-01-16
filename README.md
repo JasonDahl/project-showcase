@@ -12,7 +12,7 @@ In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellows
 - Natural Language Processing (NLP) and time series analysis
 - Distributed computing with Spark (RDD and dataframe/MLLib)
 - Deep learning with Keras/Tensorflow
-- A rigorous [capstone project](https://github.com/JasonDahl/Capstone-Cadet-Success "Go to the Repo")
+- A rigorous [capstone project](https://github.com/JasonDahl/TDI-Capstone "Go to the Repo")
 
 ### MLZoomcamp
 
