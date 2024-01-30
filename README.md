@@ -16,7 +16,8 @@ In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellows
 
 ### Data Engineering Zoomcamp
 
-[DEZoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching data engineering. It's curriculum includes several [coding projects](https://github.com/JasonDahl/de_zoomcamp_hw/tree/main "View repo"). NOTE: This section is under active development.
+[DEZoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching data engineering. It's curriculum includes several [coding projects](https://github.com/JasonDahl/de_zoomcamp_hw/tree/main "View repo"). 
+NOTE: This section is under active development.
 
 | Project Link | Area | Project Description | Tools |    
 |---|---|---|---|
