@@ -18,8 +18,6 @@ In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellows
 
 [DEZoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching data engineering. It's curriculum includes several [coding projects](https://github.com/JasonDahl/de_zoomcamp_hw/tree/main "View repo"). 
 
-:fire: NOTE: This section is under active development.
-
 | Project Link | Area | Project Description | Tools |    
 |---|---|---|---|
 | [ETL with PostgreSQL, Docker, and Terraform](https://github.com/JasonDahl/de_zoomcamp_hw/tree/main/dehw_01_docker_sql "View project") | ETL, containers and orchestration, resource provisioning | Demonstrated essential data engineering techniques using Docker.  ETL development in a Jupyter notebook with Pandas for data manipulation and SQLAlchemy for database creation and exploration. Container orchestration with Docker-Compose.  Resource provisioning on GCP with Terraform.| Google Cloud Platform, Pandas, SQLAlchemy, Jupyter, Docker, PostgreSQL, pgAdmin, Docker-Compose, Terraform |
