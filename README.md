@@ -25,13 +25,13 @@ Be sure to check out the live demo. Try the following: "Pose a problem similar t
 ## Selected Training & Applied Projects
 
 ### Applied Data Science (TDI Fellowship)
-In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellowship]([https://www.thedataincubator.com/](https://www.credly.com/badges/49bedbf7-a813-4a8a-a81f-396302e0511d) "View my certification") - an immersive training program designed to prepare individuals with strong quantitative and analytical backgrounds, often including those with advanced degrees in fields like physics, mathematics, computer science, or engineering, for careers in data science.  The curriculum covered a wide range of data science topics, including but not limited to machine learning, statistical analysis, data visualization, and big data technologies.  Fellowship work features hands-on projects, solving real-world problems and gaining practical experience.  Modules included:
-- Data wrangling with Numpy and Pandas
-- Data analysis with SQL
-- Machine learning with Scikit-Learn
-- Natural Language Processing (NLP) and time series analysis
-- Distributed computing with Spark (RDD and dataframe/MLLib)
-- Deep learning with Keras/Tensorflow
+In 2023, I [completed](https://www.credly.com/badges/49bedbf7-a813-4a8a-a81f-396302e0511 "View my certification") The Data Incubator’s (TDI) competitive [Data Science Fellowship](https://www.tditrain.com/ "Pragmatic Institute discontinued TDI in 2024 :("), an immersive program for scientists and quantitative researchers transitioning advanced analytical training into applied data science roles. The fellowship emphasized end-to-end problem framing, statistical modeling, machine learning, and clear communication of results. My capstone project, which focused on interpretable risk modeling for academic performance, was selected for presentation in the cohort’s Capstone Showcase. A recording of that presentation is available [here](https://youtu.be/e7Yg1mQUiQk).
+
+Fellowship work featured hands-on projects, solving real-world problems and gaining practical experience: - Framed and solved open-ended analytical problems using real institutional datasets, emphasizing interpretability and decision relevance.
+- Built reproducible Python-based workflows for data cleaning, feature engineering, modeling, and evaluation.
+- Applied statistical modeling and machine learning (logistic regression, regularization, cross-validation) with a focus on transparency and explainability.
+- Used SQL for exploratory analysis and integration of heterogeneous data sources.
+- Communicated analytical results clearly to technical and non-technical audiences through written reports and presentations.
 - A rigorous [capstone project](https://github.com/JasonDahl/TDI-Capstone "Go to the Repo")
 
 ### Data Engineering Zoomcamp
