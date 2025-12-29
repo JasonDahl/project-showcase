@@ -34,6 +34,9 @@ Fellowship work featured hands-on projects, solving real-world problems and gain
 - Communicated analytical results clearly to technical and non-technical audiences.
 - A rigorous [capstone project](https://github.com/JasonDahl/TDI-Capstone "Go to the Repo")
 
+This experience motivated my later focus on building tools that support scientific reasoning and exploration directly, rather than treating modeling as a black-box endpoint, which led to projects such as PhysBot.
+
+
 ### Data Engineering Zoomcamp
 
 [DEZoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main "Go to the MLZoomcamp repo") is an educational initiative by [DataTalksClub](https://datatalks.club/ "Go to DataTalksClub's homepage") focused on teaching data engineering. It's curriculum includes several [coding projects](https://github.com/JasonDahl/de_zoomcamp_hw/tree/main "View repo"). 
