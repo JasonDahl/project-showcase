@@ -31,7 +31,7 @@ Fellowship work featured hands-on projects, solving real-world problems and gain
 - Built reproducible Python-based workflows for data cleaning, feature engineering, modeling, and evaluation.
 - Applied statistical modeling and machine learning (logistic regression, regularization, cross-validation) with a focus on transparency and explainability.
 - Used SQL for exploratory analysis and integration of heterogeneous data sources.
-- Communicated analytical results clearly to technical and non-technical audiences through written reports and presentations.
+- Communicated analytical results clearly to technical and non-technical audiences.
 - A rigorous [capstone project](https://github.com/JasonDahl/TDI-Capstone "Go to the Repo")
 
 ### Data Engineering Zoomcamp
