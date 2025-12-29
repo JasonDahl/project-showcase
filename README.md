@@ -18,6 +18,8 @@ PhysBot is a modular retrieval-augmented generation (RAG) system designed to sup
 
 This project reflects my interest in building AI-assisted systems that **augment scientific reasoning** rather than replace it.
 
+Be sure to check out the live demo. Try the following: "Pose a problem similar to an example from Unit 110, and walk me through the solution."
+
 ---
 
 ## Selected Training & Applied Projects
