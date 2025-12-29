@@ -1,8 +1,26 @@
 # Jason's Portfolio
 
-Welcome to my portfolio.  Read on for a guided tour of some of my data projects.
+Welcome to my portfolio. This page highlights selected projects that reflect my work at the intersection of **physics-based scientific reasoning, data analysis, and applied machine learning**, with an emphasis on interpretable systems and real-world decision support.
 
-## Table of Contents
+---
+
+## Featured Project
+
+### PhysBot — Interpretable Semantic Search for Scientific Documents  
+**[Live Demo](https://physbot-demo.streamlit.app/) | [Code](https://github.com/JasonDahl/llm-z-camp)**
+
+PhysBot is a modular retrieval-augmented generation (RAG) system designed to support exploration and analysis of complex technical and scientific document collections.
+
+- Implements **multi-pass, LLM-assisted PDF parsing** to extract structured content from dense technical texts  
+- Uses semantic search and citation-aware responses to return **source documents and page-level references**  
+- Designed for **transparency and interpretability**, prioritizing traceability over black-box answers  
+- Built as a reusable analytical tool for scientific teams working with large, heterogeneous corpora  
+
+This project reflects my interest in building AI-assisted systems that **augment scientific reasoning** rather than replace it.
+
+---
+
+## Selected Training & Applied Projects
 
 ### TDI Data Science Fellowship
 In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellowship]([https://www.thedataincubator.com/](https://www.credly.com/badges/49bedbf7-a813-4a8a-a81f-396302e0511d) "View my certification") - an immersive training program designed to prepare individuals with strong quantitative and analytical backgrounds, often including those with advanced degrees in fields like physics, mathematics, computer science, or engineering, for careers in data science.  The curriculum covered a wide range of data science topics, including but not limited to machine learning, statistical analysis, data visualization, and big data technologies.  Fellowship work features hands-on projects, solving real-world problems and gaining practical experience.  Modules included:
