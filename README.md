@@ -24,7 +24,7 @@ Be sure to check out the live demo. Try the following: "Pose a problem similar t
 
 ## Selected Training & Applied Projects
 
-### TDI Data Science Fellowship
+### Applied Data Science (TDI Fellowship)
 In 2023 I completed The Data Incubator's (TDI) competitive [Data Science Fellowship]([https://www.thedataincubator.com/](https://www.credly.com/badges/49bedbf7-a813-4a8a-a81f-396302e0511d) "View my certification") - an immersive training program designed to prepare individuals with strong quantitative and analytical backgrounds, often including those with advanced degrees in fields like physics, mathematics, computer science, or engineering, for careers in data science.  The curriculum covered a wide range of data science topics, including but not limited to machine learning, statistical analysis, data visualization, and big data technologies.  Fellowship work features hands-on projects, solving real-world problems and gaining practical experience.  Modules included:
 - Data wrangling with Numpy and Pandas
 - Data analysis with SQL
